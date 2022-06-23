@@ -1,0 +1,9 @@
+.countInfo {
+    margin-bottom: 3rem;
+    padding: 12px;
+    font-size: 28px;
+    font-weight: 700;
+    font-style: italic;
+    border-style: dashed;
+    width: 440px;
+}

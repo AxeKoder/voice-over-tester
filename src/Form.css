@@ -1,0 +1,22 @@
+form {
+    height: 34px;
+}
+
+form > * {
+    height: 90%;
+}
+
+form > input {
+    width: 200px;
+    font-size: 20px;
+}
+
+.margic-button {
+    font-size: 18pt;
+    font-weight: 700;
+    margin-left: 30pt;
+    height: 220px;
+    min-width: 340px;
+    position: absolute;
+    border-radius: 20px;
+}
